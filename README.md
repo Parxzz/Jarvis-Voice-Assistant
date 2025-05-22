@@ -4,4 +4,4 @@ Built a voice assistant using Javascript which can perform tasks like searching,
 sic/videos, opening requested sites, fetching system information etc and accessing data from gemini API.
 
 
-I CAN'T ENTER THE CODES BECAUSSE THE SECRET KEY IS USED IN THIS (AI KEY) THE RULE OF GITHUB I CAN'T DO ANYTHING.
+I CAN'T UPLOAD THE CODE FILES BECAUSSE THE SECRET KEY IS USED IN THIS (AI KEY) THE RULE OF GITHUB I CAN'T DO ANYTHING.
